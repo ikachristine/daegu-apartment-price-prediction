@@ -115,6 +115,3 @@ Model digunakan sebagai: **Decision-support tool**, bukan penentu harga final
 **Conclusion**
 
 Model mampu memprediksi harga apartemen dengan performa yang cukup baik (MAPE ~19%) dan dapat digunakan sebagai alat bantu dalam pengambilan keputusan harga. Dengan pendekatan berbasis data, risiko kesalahan penetapan harga dapat dikurangi.
-## 👤 Author
-
-Ika Christine Purba
