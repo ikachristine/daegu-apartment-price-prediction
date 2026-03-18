@@ -104,6 +104,23 @@ Model digunakan sebagai: **Decision-support tool**, bukan penentu harga final
 - Menggunakan model yang lebih kompleks (XGBoost, dll)
 - Menambahkan data eksternal (ekonomi, demand pasar)
 
+## 📊 Results Visualization
+
+### Actual vs Predicted Price
+
+Model menunjukkan kemampuan yang cukup baik dalam menangkap pola harga, meskipun terdapat peningkatan error pada properti dengan harga tinggi.
+![Actual vs Predicted](Downloads/output.png)
+
+### Feature Importance
+
+Fitur yang paling berpengaruh terhadap harga apartemen adalah:
+1. Luas unit
+2. Lokasi
+3. Fasilitas
+
+![Feature Importance](Downloads/feature_importance.png)
+
+
 **Tools & Libraries**
 
 - Python
